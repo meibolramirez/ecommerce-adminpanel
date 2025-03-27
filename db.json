@@ -1,0 +1,90 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camiseta para perro",
+      "category": "Moda",
+      "size": "M",
+      "color": "Rojo",
+      "price": "5"
+    },
+    {
+      "id": 2,
+      "name": "Chaqueta impermeable",
+      "category": "Moda",
+      "size": "L",
+      "color": "Azul"
+    },
+    {
+      "id": 3,
+      "name": "Pañuelo estampado",
+      "category": "Moda",
+      "size": "Único",
+      "color": "Multicolor"
+    },
+    {
+      "id": 4,
+      "name": "Collar ajustable",
+      "category": "Accesorios",
+      "size": "S",
+      "color": "Negro"
+    },
+    {
+      "id": 5,
+      "name": "Correa resistente",
+      "category": "Accesorios",
+      "size": "M",
+      "color": "Marrón"
+    },
+    {
+      "id": 6,
+      "name": "Arnés acolchonado",
+      "category": "Accesorios",
+      "size": "L",
+      "color": "Verde",
+      "price": 25.3
+    },
+    {
+      "id": 7,
+      "name": "Cepillo de cerdas suaves",
+      "category": "Higiene",
+      "size": "Único",
+      "color": "Blanco"
+    },
+    {
+      "id": 8,
+      "name": "Shampoo para perros",
+      "category": "Higiene",
+      "size": "500ml",
+      "color": "Transparente"
+    },
+    {
+      "name": "Test",
+      "category": "Accesorios",
+      "size": "small",
+      "price": 5.6,
+      "id": 9
+    },
+    {
+      "name": "Test 2",
+      "category": "Moda",
+      "price": 100,
+      "id": 10
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Mabel Ramirez",
+      "email": "ramirez.mabel@gmail.com",
+      "admin": true,
+      "role": "Admin"
+    },
+    {
+      "name": "Test",
+      "email": "test@test.com",
+      "role": "Regular",
+      "id": 2
+    }
+  ]
+}
